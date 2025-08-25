@@ -12,3 +12,4 @@ C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\refint\me
 C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.pdb
 C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.genruntimeconfig.cache
 C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\ref\mesqueunclub.dll
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.sourcelink.json
