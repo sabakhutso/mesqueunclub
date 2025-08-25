@@ -1,0 +1,14 @@
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\bin\Debug\net8.0\mesqueunclub.exe
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\bin\Debug\net8.0\mesqueunclub.deps.json
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\bin\Debug\net8.0\mesqueunclub.runtimeconfig.json
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\bin\Debug\net8.0\mesqueunclub.dll
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\bin\Debug\net8.0\mesqueunclub.pdb
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.AssemblyInfoInputs.cache
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.AssemblyInfo.cs
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.csproj.CoreCompileInputs.cache
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.dll
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\refint\mesqueunclub.dll
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.pdb
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\mesqueunclub.genruntimeconfig.cache
+C:\Users\sxuci\source\repos\mesqueunclub\mesqueunclub\obj\Debug\net8.0\ref\mesqueunclub.dll
