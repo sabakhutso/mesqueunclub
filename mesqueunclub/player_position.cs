@@ -278,13 +278,13 @@
 //        Task 4
 
 //Console.WriteLine("Enter how many top elements you want:");
-//int n = int.Parse(Console.ReadLine());
+//int raodenoba = int.Parse(Console.ReadLine()!);
 
-//int[] ricxvebi = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+//int[] ricxvebi = { 1, 81, 24, 9, 124 };
 
 //var udidesi = ricxvebi.OrderByDescending(x => x)
-//              .Take(n)
-//              .OrderBy(x => x); 
+//              .Take(raodenoba)
+//              .OrderBy(x => x);
 
 //Console.WriteLine(string.Join(" ", udidesi));
 
