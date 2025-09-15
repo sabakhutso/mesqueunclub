@@ -291,5 +291,45 @@
 #endregion
 
 #region Homework 7
+//          Task 1
 
+#endregion
+
+#region Homework 9
+//          Task 1
+
+
+
+//          Task 2
+//using mesqueunclub;
+//using System;
+
+//class Program
+//{
+//    static void Main(string[] args)
+//    {
+        
+//        Student Saba = new Student
+//        {
+//            Name = "saba",
+//            Age = 20,
+//            Date = 2023
+//        };
+
+//        Teacher teacher = new Teacher
+//        {
+//            Name = "nana maswavlebeli",
+//            Certified = true
+//        };
+
+//        Console.WriteLine($"Student: {Saba.Name}, Age: {Saba.Age}");
+//        Console.WriteLine($"Years left to graduate: {Saba.graduationyear()}");
+
+//        string subject = Saba.randomsubjects();
+//        Console.WriteLine($"\nStudent chose subject: {subject}");
+
+        
+//        teacher.CheckSubject(subject);
+//    }
+//}
 #endregion
