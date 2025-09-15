@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace mesqueunclub
+namespace mesqueunclub.universiteti
 {
     internal class Teacher
     {

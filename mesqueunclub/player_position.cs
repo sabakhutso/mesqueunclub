@@ -308,7 +308,7 @@
 //{
 //    static void Main(string[] args)
 //    {
-        
+
 //        Student Saba = new Student
 //        {
 //            Name = "saba",
@@ -328,8 +328,31 @@
 //        string subject = Saba.randomsubjects();
 //        Console.WriteLine($"\nStudent chose subject: {subject}");
 
-        
+
 //        teacher.CheckSubject(subject);
 //    }
 //}
+
+
+//             Task 3
+//using mesqueunclub;
+//using System;
+
+//class Program
+//{
+//    static void Main(string[] args)
+//    {
+//        bejiti student1 = new bejiti { Name = "Pedri" };
+//        zarmaci student2 = new zarmaci { Name = "Gavi" };
+//        bejiti student3 = new bejiti { Name = "Lamine" };
+//        zarmaci student4 = new zarmaci { Name = "Ronald" };
+
+       
+//        ClassRoom classRoom = new ClassRoom(student1, student2, student3, student4);
+
+     
+//        classRoom.yvelastudenti();
+//    }
+//}
+
 #endregion

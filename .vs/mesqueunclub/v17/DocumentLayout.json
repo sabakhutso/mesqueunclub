@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\player_position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\saklaso otaxi\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\saklaso otaxi\\moswavle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\universiteti\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|c:\\users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F07318-BB7E-4CFB-AF23-758FE03FAD49}|mesqueunclub\\mesqueunclub.csproj|solutionrelative:mesqueunclub\\universiteti\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,30 +38,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "zarmaci.cs",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs",
+              "RelativeToolTip": "mesqueunclub\\saklaso otaxi\\moswavleebi\\zarmaci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:12:56.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bejiti.cs",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs",
+              "RelativeToolTip": "mesqueunclub\\saklaso otaxi\\moswavleebi\\bejiti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:12:39.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\Classroom.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\saklaso otaxi\\Classroom.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\Classroom.cs",
+              "RelativeToolTip": "mesqueunclub\\saklaso otaxi\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:10:34.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "moswavle.cs",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavle.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\saklaso otaxi\\moswavle.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\saklaso otaxi\\moswavle.cs",
+              "RelativeToolTip": "mesqueunclub\\saklaso otaxi\\moswavle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T14:04:49.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\Student.cs",
-              "RelativeDocumentMoniker": "mesqueunclub\\Student.cs",
-              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\Student.cs",
-              "RelativeToolTip": "mesqueunclub\\Student.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\Student.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\universiteti\\Student.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\Student.cs",
+              "RelativeToolTip": "mesqueunclub\\universiteti\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T13:16:00.632Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\Teacher.cs",
-              "RelativeDocumentMoniker": "mesqueunclub\\Teacher.cs",
-              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\Teacher.cs",
-              "RelativeToolTip": "mesqueunclub\\Teacher.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAoAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\Teacher.cs",
+              "RelativeDocumentMoniker": "mesqueunclub\\universiteti\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\universiteti\\Teacher.cs",
+              "RelativeToolTip": "mesqueunclub\\universiteti\\Teacher.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T13:15:51.226Z",
               "EditorCaption": ""
@@ -58,7 +126,7 @@
               "RelativeDocumentMoniker": "mesqueunclub\\player_position.cs",
               "ToolTip": "C:\\Users\\sxuci\\source\\repos\\mesqueunclub\\mesqueunclub\\player_position.cs",
               "RelativeToolTip": "mesqueunclub\\player_position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAIwEwBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-11T14:36:49.758Z",
               "EditorCaption": ""
